@@ -1,0 +1,46 @@
+body{
+    margin-left: 150px;
+    color: black;
+}
+
+.navbar-nav > a {
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+    font-weight: bold;
+}
+
+.navbar-nav {
+    margin-right: 25px;
+    margin-top: 25px;
+}
+
+.about{
+    width: 600px;
+    margin-top: 150px;
+    box-sizing: border-box;
+}
+.about > h1{
+    font-size: 100px;
+}
+
+.milestones{
+    margin-top: 200px !important;
+    margin-bottom: 50px !important;
+}
+.col-4 > h1{
+    font-size: 100px;
+    writing-mode:vertical-rl;
+    text-align: top;
+    /*padding-left: 900px;*/
+}
+
+.proj{
+    transform: rotate(-180deg) !important;
+    margin-left: -200px;
+}
+/*
+.projects > h1{
+    font-size: 100px;
+    writing-mode:vertical-rl;
+    text-align: top;
+}*/
